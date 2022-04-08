@@ -2,7 +2,7 @@
 
 
 
-My personal basic docker-compose setup/project skeleton for web (PHP) development.
+My no frills docker-compose setup/project skeleton for personal web (PHP) development.
 
 This is ever evolving and subject to improvement as time permits. Mostly it's here so I don't have so set up the same thing for every personal 'huh, I wonder how quickly I can hack this thing together?' project I start (and quickly abandon).
 
